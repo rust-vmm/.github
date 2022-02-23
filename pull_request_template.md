@@ -7,8 +7,9 @@
 Before submitting your PR, please make sure you addressed the following
 requirements:
 
-- [ ] All commits in this PR are signed (with `git commit -s`), and follow
-  [the 50/72 git commit rule](https://www.midori-global.com/blog/2018/04/02/git-50-72-rule).
+- [ ] All commits in this PR are signed (with `git commit -s`), and the commit
+  message has max 60 characters for the summary and max 75 characters for each
+  description line.
 - [ ] All added/changed functionality has a corresponding unit/integration
   test.
 - [ ] Any newly added `unsafe` code is properly documented.
