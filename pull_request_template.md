@@ -12,4 +12,6 @@ requirements:
   description line.
 - [ ] All added/changed functionality has a corresponding unit/integration
   test.
+- [ ] All added/changed public-facing functionality has entries in the "Upcoming 
+  Release" section of CHANGELOG.md (if no such section exists, please create one).
 - [ ] Any newly added `unsafe` code is properly documented.
