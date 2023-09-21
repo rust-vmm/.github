@@ -15,7 +15,6 @@ using the public PGP keys located below.
 |---|---|---|
 |Andreea Florescu|fandree@amazon.com|https://github.com/andreeaflorescu.gpg|
 |Jonathan Woollett-Light|jcawl@amazon.co.uk|https://github.com/JonathanWoollett-Light.gpg|
-|Laura Loghin|lauralg@amazon.com|https://github.com/lauralt.gpg|
 |Patrick Roy|roypat@amazon.co.uk|https://github.com/roypat.gpg|
 |Rob Bradford|rbradford@rivosinc.com|https://github.com/rbradford.gpg|
 |Sebastien Boeuf|seb@rivosinc.com|https://github.com/sboeuf.gpg|
