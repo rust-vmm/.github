@@ -8,23 +8,15 @@ protecting rust-vmm customers through coordinated vulnerability disclosure
 ## Reporting Security Vulnerabilities
 
 We ask anyone who discovers a security concern associated with any of the
-rust-vmm components to send an encrypted email to the rust-vmm maintainers,
-using the public PGP keys located below.
+rust-vmm components to report it with
+[GitHub's private security reporting mechanism](https://docs.github.com/en/code-security/security-advisories/guidance-on-reporting-and-writing-information-about-vulnerabilities/privately-reporting-a-security-vulnerability) in the respective
+repository.
 
-|Maintainer|Email|PGP Key|
-|---|---|---|
-|Andreea Florescu|fandree@amazon.com|https://github.com/andreeaflorescu.gpg|
-|Jonathan Woollett-Light|jcawl@amazon.co.uk|https://github.com/JonathanWoollett-Light.gpg|
-|Patrick Roy|roypat@amazon.co.uk|https://github.com/roypat.gpg|
-|Rob Bradford|rbradford@rivosinc.com|https://github.com/rbradford.gpg|
-|Sebastien Boeuf|seb@rivosinc.com|https://github.com/sboeuf.gpg|
+Please provide any supporting material (proof-of-concept code, tool
+output, etc.) that would be useful in helping us understand the nature
+and severity of the security concern.
 
-
-Along with your notification email, please provide any supporting material
-(proof-of-concept code, tool output, etc.) that would be useful in helping us
-understand the nature and severity of the security concern.
-
-We will send a non-automated acknowledgement email reply within 1 business day
+We will post a non-automated acknowledgement reply within 1 business day
 followed by an initial assessment of the issue within 5 business days.
 Subsequently, we will work in partnership with you to assess any impact of the
 issue and prepare a security advisory (including any patches with appropriate
@@ -36,8 +28,9 @@ If our assessment results in validating a vulnerability, we will work with you
 to agree on an embargo period (we recommend at least 2 weeks AFTER any
 necessary development time) which will provide rust-vmm customers enough time
 to test our proposed fix and patch their products prior to any broader or more
-public disclosure. Members of the security contact list agree not to publicly
-disclose any details of the security issue until the embargo period expires.
+public disclosure. Members of the rust-vmm organization and repository
+maintainers agree not to publicly disclose any details of the security
+issue until the embargo period expires.
 
 ## CVE Allocation
 
