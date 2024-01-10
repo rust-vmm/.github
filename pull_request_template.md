@@ -7,9 +7,9 @@
 Before submitting your PR, please make sure you addressed the following
 requirements:
 
-- [ ] All commits in this PR are signed (with `git commit -s`), and the commit
-  message has max 60 characters for the summary and max 75 characters for each
-  description line.
+- [ ] All commits in this PR have Signed-Off-By trailers (with
+  `git commit -s`), and the commit message has max 60 characters for the
+  summary and max 75 characters for each description line.
 - [ ] All added/changed functionality has a corresponding unit/integration
   test.
 - [ ] All added/changed public-facing functionality has entries in the "Upcoming 
